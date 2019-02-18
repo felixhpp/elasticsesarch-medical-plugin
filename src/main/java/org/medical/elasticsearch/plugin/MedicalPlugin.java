@@ -14,6 +14,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 public class MedicalPlugin extends Plugin {
+    // 插件名称
     public static String PLUGIN_NAME = "analysis-medical";
     public static final ESLogger logger = Loggers.getLogger(MedicalPlugin.class);
     @Override
