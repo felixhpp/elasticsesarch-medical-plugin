@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Medical Analyzer 扩展配置</comment>
+    <!--远程分词器服务 -->
+    <entry key="analyzer_server">http://114.251.235.51:8080/ner</entry>
+</properties>
